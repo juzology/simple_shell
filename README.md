@@ -1,1 +1,1 @@
-team project by joseph and dosunmu
+A Shell project by joseph and https://github.com/muyiwadosunmu
