@@ -1,1 +1,1 @@
-A Shell project by joseph and https://github.com/muyiwadosunmu
+An ALX Shell project by joseph and muyiwa
